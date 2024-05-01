@@ -1,4 +1,5 @@
 # Compiled binary
+bin/
 *.exe
 *.o
 *.out
